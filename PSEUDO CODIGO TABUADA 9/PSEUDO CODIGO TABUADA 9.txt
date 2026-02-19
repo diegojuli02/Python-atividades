@@ -1,0 +1,16 @@
+Algoritmo Tabuada Do 9
+
+Início
+
+    Escreva ("Digite um valor para n:")
+
+    Leia(n)
+
+    dezena <- n - 1
+    unidade <- 10 - n
+
+    resultado <- (dezena * 10) + unidade
+
+    Escreva("O resultado de 9 x ", n, " é: ", resultado)
+
+Fim
